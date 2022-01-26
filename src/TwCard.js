@@ -1,5 +1,4 @@
 import React from 'react';
-import './ca.css'
 import styled from 'styled-components';
 
 
